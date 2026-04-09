@@ -1,0 +1,17 @@
+body {
+    background: #f0f2f5;
+    font-family: Arial;
+}
+
+h1 {
+    color: #333;
+}
+
+.carousel img {
+    height: 500px;
+    object-fit: cover;
+}
+
+footer {
+    background: #1e1e2f;
+}
